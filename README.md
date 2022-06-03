@@ -9,7 +9,7 @@ Open *.xcworkspace, *.xcodeproj or Package.swift
 
 ```bash
 # your .bash_profile
-alias xc="~/ShotaKashihara/xc/main.swift"
+alias xc="~/github.com/ShotaKashihara/xc/main.swift"
 ```
 
 ## USAGE
